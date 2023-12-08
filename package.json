@@ -15,7 +15,7 @@
     "coverage": "vitest run --coverage",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "Deloy": "Deploy:https://main--superb-pika-5dbd0c.netlify.app/"
+    "Deploy": "https://main--superb-pika-5dbd0c.netlify.app/"
   },
   "dependencies": {
     "@floating-ui/react-dom-interactions": "^0.10.3",
